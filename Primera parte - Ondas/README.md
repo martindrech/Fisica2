@@ -8,3 +8,5 @@
 
 **play.py:** script con funciones para controlar la placa de audio de la computadora y generar tonos simples o batidos. Requiere el paquete "sounddevice" que pueden instalarlo con "pip install sounddevice". 
 
+**Ejemplo sencillo de sympy.ipynb:** un ejemplo muy sencillo de como usar sympy para encontrar los autovectores y autovalores de una matriz. 
+
