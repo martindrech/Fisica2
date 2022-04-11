@@ -10,3 +10,5 @@
 
 **Ejemplo sencillo de sympy.ipynb:** un ejemplo muy sencillo de como usar sympy para encontrar los autovectores y autovalores de una matriz. 
 
+**Osciladores_acoplados_animacion.ipynb:** script de colab para animar la dinamica de N osciladores acoplados. Es el ejericio 10 de la guía 2, donde N particulas de masa m están unidas por resortes y se analizan las oscilaciones transversales.  
+
